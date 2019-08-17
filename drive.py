@@ -45,6 +45,6 @@ def send_control(steering_angle,throttle):
 
 
 if __name__ == '__main__':
-    model = load_model('models\\self_drive.h5')
+    model = load_model('car.h5')
     app = socketio.Middleware(sio,app)
     eventlet.wsgi.server(eventlet.listen(('127.0.0.1',4567)),app)

@@ -3,8 +3,8 @@
 Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Architecture for End To End Self Driving Car And For Simulation Using Udacity Open Source Unity Self Driving Car Simulator
 
 ## Demo
+[demo](https://www.linkedin.com/posts/mannagrawal_automotive-computervision-datascience-ugcPost-6621305770644381696-Ovmc/)
 
-[![Self Driving Car Project](https://www.linkedin.com/posts/mannagrawal_automotive-computervision-datascience-ugcPost-6621305770644381696-Ovmc/)
 
 ## Dependencies
 
@@ -22,7 +22,7 @@ Self Driving Car Using Covolutinal Neural Networks Via Using NVIDIA Model Archit
 Type the following commands in your terminal:
 ```bash
 cd path/to/directory/
-git clone https://github.com/Aman-py/Self_Driving_Car
+git clone https://github.com/MannAgrawal/self-driving-car.git
 cd Self_Driving_Car/
 ```
 
